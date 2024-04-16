@@ -1,0 +1,15 @@
+# Generated file
+/dist
+/coverage
+
+# Dependency directories
+/node_modules
+
+# Optional IDE directories
+/.idea
+.vscode/
+
+# Optional test files
+/test/unit/coverage/
+/test/unit/report.xml
+/test/unit/report.txt
